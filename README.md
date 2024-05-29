@@ -1,4 +1,4 @@
-Call the add_time function (2 arguments + 1 optionnale) to return the correct time format after adding minutes.
+Call the add_time function (2 arguments + 1 optionnal) to return the correct time format after adding time
 add_time(start, duration, day)
 
 start: Type = String ; Time to start the minute addition (format "h:min XX")
