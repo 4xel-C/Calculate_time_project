@@ -9,10 +9,10 @@ day: Type : String : Day of the week (case unsensitive)
 Use exemples:
 
 add_time('3:00 PM', '3:10')
-# Returns: 6:10 PM
+Returns: 6:10 PM
 
 add_time('11:30 AM', '2:32', 'Monday')
-# Returns: 2:02 PM, Monday
+Returns: 2:02 PM, Monday
 
 add_time('11:43 PM', '24:20', 'tueSday')
-# Returns: 12:03 AM, Thursday (2 days later)
+Returns: 12:03 AM, Thursday (2 days later)
